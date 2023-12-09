@@ -1,0 +1,1 @@
+/Users/tylerruddy/Documents/AdventOfCode2023/2023_12_01/target/debug/part1: /Users/tylerruddy/Documents/AdventOfCode2023/2023_12_01/src/bin/input1.txt /Users/tylerruddy/Documents/AdventOfCode2023/2023_12_01/src/bin/part1.rs
